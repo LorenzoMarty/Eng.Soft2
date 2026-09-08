@@ -6,7 +6,7 @@ Repositório do seminário de **Engenharia de Software II** do curso de Tecnolog
 
 | Integrante | Matrícula |
 |---|---:|
-| Arthur Novak | [] |
+| Arthur Novak | [202510093] |
 | Lorenzo dos Reis | [] |
 | Andrei Cecatto | [202511198] |
 
